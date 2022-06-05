@@ -1,3 +1,4 @@
 # gitDemo
 
-simple README file
+simple README file 
+i just changed it
